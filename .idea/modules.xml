@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-common/easyreport-common.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-common/easyreport-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-data/easyreport-data.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-data/easyreport-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-domain/easyreport-domain.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-domain/easyreport-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-engine/easyreport-engine.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-engine/easyreport-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-membership/easyreport-membership.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-membership/easyreport-membership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-scheduler/easyreport-scheduler.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-scheduler/easyreport-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-web/easyreport-web.iml" filepath="$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-web/easyreport-web.iml" />
+    </modules>
+  </component>
+</project>

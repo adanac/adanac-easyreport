@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-common/target/classes/META-INF/maven/com.easytoolsoft/easyreport-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-data/target/classes/META-INF/maven/com.easytoolsoft/easyreport-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-domain/target/classes/META-INF/maven/com.easytoolsoft/easyreport-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-engine/target/classes/META-INF/maven/com.easytoolsoft/easyreport-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-membership" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-membership/target/classes/META-INF/maven/com.easytoolsoft/easyreport-membership" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-scheduler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-scheduler/target/classes/META-INF/maven/com.easytoolsoft/easyreport-scheduler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyreport-web/target/m2e-wtp/web-resources/META-INF/maven/com.easytoolsoft/easyreport-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-membership" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-scheduler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../0831/EasyReport-master/easyreport-web" charset="UTF-8" />
+  </component>
+</project>
